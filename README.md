@@ -75,7 +75,7 @@ This Weather App is a comprehensive Flutter project designed to provide users wi
 # Contributors
 
 **Chandrima Nandi (IMT2022062):**
--Designed and implemented the **models**, including `Weather` and `FavouriteModel`, and created the **test** files for unit testing the application logic. 
+- Designed and implemented the **models**, including `Weather` and `FavouriteModel`, and created the **test** files for unit testing the application logic. 
 
 **Saniya Ismail (IMT2022128)**
 - Worked on the **assets** folder and ensured all required `.json` animation files were added, as well as developed the **main.dart** file and **WeatherPage** screen.
